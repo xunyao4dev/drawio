@@ -1,9 +1,76 @@
-<mxfile host="app.diagrams.net" modified="2024-05-24T12:12:17.272Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" version="24.4.7" etag="3W9fCemuYPLLmoA36-5c" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-24T12:30:39.724Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="NEZQfCFJNzaW2WlU-qg8" version="24.4.7" type="github">
   <diagram name="第 1 页" id="Z7Th33rIA3lxe8Ifl9V_">
-    <mxGraphModel>
+    <mxGraphModel dx="1781" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="bh9T-JL_B93E33vmxypZ-8" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;dashed=1;elbow=vertical;curved=1;strokeColor=default;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="bh9T-JL_B93E33vmxypZ-1" target="bh9T-JL_B93E33vmxypZ-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bh9T-JL_B93E33vmxypZ-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;sketch=1;curveFitting=1;jiggle=2;dashed=1;" edge="1" parent="1" source="bh9T-JL_B93E33vmxypZ-1" target="bh9T-JL_B93E33vmxypZ-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bh9T-JL_B93E33vmxypZ-1" value="&lt;b&gt;物理属性A&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="140" y="410" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bh9T-JL_B93E33vmxypZ-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;dashed=1;" edge="1" parent="1" source="bh9T-JL_B93E33vmxypZ-2" target="bh9T-JL_B93E33vmxypZ-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bh9T-JL_B93E33vmxypZ-2" value="&lt;b&gt;虚拟属性A&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="330" y="260" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bh9T-JL_B93E33vmxypZ-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;elbow=vertical;sketch=1;curveFitting=1;jiggle=2;curved=1;dashed=1;" edge="1" parent="1" source="bh9T-JL_B93E33vmxypZ-3" target="bh9T-JL_B93E33vmxypZ-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bh9T-JL_B93E33vmxypZ-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="bh9T-JL_B93E33vmxypZ-3" target="bh9T-JL_B93E33vmxypZ-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bh9T-JL_B93E33vmxypZ-3" value="&lt;b&gt;标签&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;shadow=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="500" y="410" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bh9T-JL_B93E33vmxypZ-4" value="&lt;b&gt;分群&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;shadow=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="110" y="70" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bh9T-JL_B93E33vmxypZ-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;curved=1;dashed=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="bh9T-JL_B93E33vmxypZ-5" target="bh9T-JL_B93E33vmxypZ-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bh9T-JL_B93E33vmxypZ-5" value="&lt;b&gt;维度属性&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;direction=west;sketch=1;curveFitting=1;jiggle=2;shadow=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="330" y="120" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bh9T-JL_B93E33vmxypZ-11" value="&lt;b&gt;物理属性A&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="505" y="540" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bh9T-JL_B93E33vmxypZ-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;curved=1;dashed=1;" edge="1" parent="1" source="bh9T-JL_B93E33vmxypZ-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bh9T-JL_B93E33vmxypZ-13" value="&lt;b&gt;&lt;font color=&quot;#000000&quot;&gt;物理属性B&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="330" y="420" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="bh9T-JL_B93E33vmxypZ-19" value="依赖方" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="570" y="215" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bh9T-JL_B93E33vmxypZ-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="bh9T-JL_B93E33vmxypZ-20" target="bh9T-JL_B93E33vmxypZ-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bh9T-JL_B93E33vmxypZ-20" value="被依赖方" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="720" y="220" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="bh9T-JL_B93E33vmxypZ-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="bh9T-JL_B93E33vmxypZ-22" target="bh9T-JL_B93E33vmxypZ-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bh9T-JL_B93E33vmxypZ-22" value="&lt;b&gt;物理属性C&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="20" y="290" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bh9T-JL_B93E33vmxypZ-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;sketch=1;curveFitting=1;jiggle=2;dashed=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bh9T-JL_B93E33vmxypZ-24" target="bh9T-JL_B93E33vmxypZ-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="110" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bh9T-JL_B93E33vmxypZ-24" value="虚拟属性B" style="ellipse;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#E1D5E7;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="200" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
